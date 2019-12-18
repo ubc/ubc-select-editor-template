@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/editor.scss"],"names":[],"mappings":"AAAA,6CACI,mBAAoB,CACpB,6BAA8B,CAC9B,kBAAmB,CACnB,UAAW","file":"editor.css","sourcesContent":[".editor-post-select-editor-template__content {\n    display: inline-flex;\n    justify-content: space-between;\n    align-items: center;\n    width: 100%;\n}\n"],"sourceRoot":""}
