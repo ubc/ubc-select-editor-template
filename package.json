@@ -11,7 +11,7 @@
   "author": "richardtape",
   "license": "GPL-2.0+",
   "devDependencies": {
-    "@wordpress/scripts": "5.0.1",
+    "@wordpress/scripts": "26.8.0",
     "css-loader": "^3.5.0",
     "ignore-emit-webpack-plugin": "^2.0.2",
     "mini-css-extract-plugin": "^0.8.2",
